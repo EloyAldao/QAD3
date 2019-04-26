@@ -8,7 +8,8 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-# import .qad_dsettings_rc
+from .qad_dsettings_rc import *
+from .qad_rc import *
 
 
 class Ui_DSettings_Dialog(object):
@@ -520,5 +521,6 @@ class Ui_DSettings_Dialog(object):
         self.cancelButton.setText(_translate("DSettings_Dialog", "Cancel"))
         self.pushButton_HELP.setText(_translate("DSettings_Dialog", "?"))
 
-# import .qad_dsettings_rc
+from .qad_dsettings_rc import *
+from .qad_rc import *
 

@@ -8,7 +8,7 @@
 # Mandatory items:
 
 [general]
-name=QAD
+name=QAD3
 email=gam17@riseup.net
 author=gam17
 qgisMinimumVersion=3.0
